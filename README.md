@@ -1,3 +1,2 @@
 # tanuki's random ideas
-a test, not really important
-pls help im bad at coding
+my personal code folder, here just bcs why not.
