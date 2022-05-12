@@ -1,8 +1,5 @@
-    #i have no clue about how you got here
-    #probably was a mistake
-    #go back to your life
-    #go eat some steak
-    #    - tanuki, 2022
+#this is overnest, a code that uses nested loops to make a full list of every single digit in any based
+#as defined by the user. A beginner's project, but making it was fun and i like it, so its here.
 r = 1
 print("Welcome to overnest, made by tanuki!")
 # no clue why i ask it first, just did things in the same order i remenbered them
