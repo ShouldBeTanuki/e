@@ -4,9 +4,9 @@ r = 1
 print("Welcome to overnest, made by tanuki!")
 # no clue why i ask it first, just did things in the same order i remenbered them
 try:
-    r = int(input("use all numbers as equal or individually?(0/1): "))
+    r = int(input("use all numbers as equal or select each one individually?(0/1): "))
 except: #in case of error, it will guess that it is 1 and keep going.
-    print("im gonna take that as a 1[ERR1]")
+    print("im gonna take that as a 1 [ERR1]")
 # it will ask for a diplay mode
 try :
         ii = int(input("full, short or spaced? 0/1/2: "))
